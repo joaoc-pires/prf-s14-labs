@@ -18,10 +18,10 @@ tesla = Car("Tesla", 200, 0.05)
 new_car = Car("BMW",230,0.07)
 
 cars = [
-ferrari,
-porsche,
-tesla,
-new_car
+    ferrari,
+    porsche,
+    tesla,
+    new_car
 ]
 
 for car in cars:
